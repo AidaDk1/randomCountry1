@@ -1,22 +1,12 @@
-<<<<<<< HEAD
-# randomCountry1
-=======
-Emoji Search
----
+This is simple random country project,which displays Japan as a random country.
+I used emoji search project as a base of my project and deleted some unnecessary files.
+If you click to next random country button it will display Kyrgyzstan and shows it's quirks.
+I used several buttons as a component and changed the style.
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
+Online deployment:
 
 
-Install
----
-
-`npm install`
+Some screenshots:
 
 
 
-Usage
----
-
-`npm start`
->>>>>>> c56012d (First commit)
