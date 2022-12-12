@@ -5,7 +5,8 @@ import "./images.css";
 function Imagess(){
     return(
         <div>
-            <img src={img1} alt='image'/>
+            <h1>JAPAN</h1>
+            <img class='cntryflag' src={img1} alt='image'/>
         </div>
     )
 }
