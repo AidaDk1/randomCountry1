@@ -1,0 +1,7 @@
+button{
+    width:600px;
+}
+div{
+    display:flex;
+    flex-direction: column;
+}
