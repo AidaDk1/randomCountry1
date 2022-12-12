@@ -6,15 +6,15 @@ export default class Header extends PureComponent {
     return (
       <header className="component-header">
         <img
-          src="//cdn.jsdelivr.net/emojione/assets/png/1f638.png"
+          src="https://www.freepnglogos.com/uploads/globe-png/blue-globe-transparent-sporetesting-39.png"
           width="32"
           height="32"
           alt=""
         />
         Random Country
         <img
-          src="//cdn.jsdelivr.net/emojione/assets/png/1f63a.png"
-          width="32"
+          src="https://www.freeiconspng.com/thumbs/globe-png/globe-png-hd-1.png"
+          width="40"
           height="32"
           alt=""
         />

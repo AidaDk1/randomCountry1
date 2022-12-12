@@ -2,10 +2,10 @@
   padding: 15px;
   position: relative;
   font-weight: normal;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 40px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 45px;
   text-align: center;
-  color: black;
+  color: indigo;
 }
 
 .component-header img {
