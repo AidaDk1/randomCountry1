@@ -4,18 +4,21 @@ import "./button.css";
 
 const Button=()=>{
     return (
-        <div >
-        <button className='button'>Region:	         East Asia</button>
-        <button className='button'>Capital:	        Tokyo</button>
+        <div class='btn'>
+        <button className='button'><span>Region:</span>East Asia</button>
+        <button className='button'><span>Capital:</span>Tokyo</button>
         <button className='button'><span>Population:</span>126,476,461 (11th Rank)</button>
-        <button className='button'>Size:	377,930 km² (62th Largest)</button>
-        <button className='button'>Language:	Japanese</button>
-        <button className='button'>Density:	340.8 per Km2</button>
-        <button className='button'>Currency:	Japanese yen</button>
-        <button className='button'>National flower:	Cherry Blossoms</button>
-        <button className='button'>National dish:	Curry-rice</button>
+        <button className='button'><span>Size:</span>	377,930 km² (62th Largest)</button>
+        <button className='button'><span>Language:</span>	Japanese</button>
+        <button className='button'><span>Density:</span>340.8 per Km2</button>
+        <button className='button'><span>Currency:</span>Currency:	Japanese yen</button>
+        <button className='button'><span>National flower:</span>National flower:	Cherry Blossoms</button>
+        <button className='button'><span>National dish:</span>Curry-rice</button>
         </div>
+
+        
     )
+
 }
 
 export default Button;
