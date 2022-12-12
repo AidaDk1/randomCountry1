@@ -18,7 +18,10 @@ export default class Header extends PureComponent {
           height="32"
           alt=""
         />
+        <hr></hr>
       </header>
+      
     );
+    
   }
 }
