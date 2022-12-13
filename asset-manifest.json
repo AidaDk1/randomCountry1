@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/randomCountry1/static/css/main.603f891f.chunk.css",
+    "main.js": "/randomCountry1/static/js/main.b6942c70.chunk.js",
+    "main.js.map": "/randomCountry1/static/js/main.b6942c70.chunk.js.map",
+    "runtime-main.js": "/randomCountry1/static/js/runtime-main.8edede1f.js",
+    "runtime-main.js.map": "/randomCountry1/static/js/runtime-main.8edede1f.js.map",
+    "static/js/2.67d9d84c.chunk.js": "/randomCountry1/static/js/2.67d9d84c.chunk.js",
+    "static/js/2.67d9d84c.chunk.js.map": "/randomCountry1/static/js/2.67d9d84c.chunk.js.map",
+    "index.html": "/randomCountry1/index.html",
+    "precache-manifest.88d2bb4eac7206aa6e0b62842deb51fb.js": "/randomCountry1/precache-manifest.88d2bb4eac7206aa6e0b62842deb51fb.js",
+    "service-worker.js": "/randomCountry1/service-worker.js",
+    "static/css/main.603f891f.chunk.css.map": "/randomCountry1/static/css/main.603f891f.chunk.css.map",
+    "static/js/2.67d9d84c.chunk.js.LICENSE.txt": "/randomCountry1/static/js/2.67d9d84c.chunk.js.LICENSE.txt",
+    "static/media/japan-flag.jpg": "/randomCountry1/static/media/japan-flag.d48a0b72.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8edede1f.js",
+    "static/js/2.67d9d84c.chunk.js",
+    "static/css/main.603f891f.chunk.css",
+    "static/js/main.b6942c70.chunk.js"
+  ]
+}
