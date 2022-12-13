@@ -12,7 +12,7 @@ const Button=()=>{
         <button className='button'><span>Language:</span>	Japanese</button>
         <button className='button'><span>Density:</span>340.8 per Km2</button>
         <button className='button'><span>Currency:</span>Japanese yen</button>
-        <button className='button'><span>National flower:</span>National flower:	Cherry Blossoms</button>
+        <button className='button'><span>National flower:</span>Cherry Blossoms</button>
         <button className='button'><span>National dish:</span>Curry-rice</button>
         <button class='next'>Next Random Country</button>
         </div>
