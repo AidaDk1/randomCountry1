@@ -2,7 +2,7 @@ This is simple random country project,which displays Japan as a random country.
 I used emoji search project as a base of my project and deleted some unnecessary files.
 I used several buttons as a component and changed the style.
 
-Online deployment:
+Online deployment:https://aidadk1.github.io/randomCountry1/
 
 
 Some screenshots:
